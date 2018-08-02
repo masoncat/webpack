@@ -1,1 +1,2 @@
-export  var name = 'masoncat';
+var name = 'masoncat';
+module.exports = name;
